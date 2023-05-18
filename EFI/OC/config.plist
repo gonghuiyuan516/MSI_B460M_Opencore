@@ -46,6 +46,14 @@
                     <key>Path</key>
                     <string>SSDT-RHUB.aml</string>
                 </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-AWAC-DISABLE.aml</string>
+                </dict>
             </array>
             <key>Delete</key>
             <array>
@@ -313,6 +321,24 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AppleALC</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AppleALCU.kext</string>
+                    <key>Comment</key>
+                    <string>V1.8.1</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/AppleALCU</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1110,11 +1136,11 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02105902J90000JA</string>
+                <string>C02142100J9PHC11M</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
-                <integer>4097</integer>
+                <integer>4105</integer>
                 <key>ROM</key>
                 <data>ESIzRFVm</data>
                 <key>SpoofVendor</key>
@@ -1122,11 +1148,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro16,4</string>
+                <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02F6NYFMD6T</string>
+                <string>C02GKTY8PN5T</string>
                 <key>SystemUUID</key>
-                <string>B7865B3B-8C6E-4A05-A984-0FAA04E00260</string>
+                <string>BD3CA088-6127-4442-AB7E-1D34869B3EE0</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
