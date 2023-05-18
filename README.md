@@ -37,10 +37,10 @@
 #### 高级-内建显示配置
 - IGE启动、显存64M
 
-- OC -> CPU 特征 -> Intel 虚拟化技术：允许
-- OC -> CPU 特征 -> Intel VT-D 技术：禁止
-- OC -> CPU 特征 -> CFG锁定：禁止
-
+#### OC
+-  CPU 特征 -> Intel 虚拟化技术：允许
+-  CPU 特征 -> Intel VT-D 技术：禁止
+- CPU 特征 -> CFG锁定：禁止
 
 #### 安全-安全引导
 
