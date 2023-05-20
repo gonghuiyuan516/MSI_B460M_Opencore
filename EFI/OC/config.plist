@@ -863,7 +863,7 @@
                 <key>PickerVariant</key>
                 <string>Auto</string>
                 <key>PollAppleHotKeys</key>
-                <true/>
+                <false/>
                 <key>ShowPicker</key>
                 <true/>
                 <key>TakeoffDelay</key>
@@ -1136,7 +1136,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C021283004N0000FB</string>
+                <string>C02103130CDPHC1JA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1150,9 +1150,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02G2UYT046M</string>
+                <string>C02F4EZKPN5T</string>
                 <key>SystemUUID</key>
-                <string>AE48FB5D-55A4-4887-B011-71DA1355D80A</string>
+                <string>7B80896A-E8FD-4CAB-AB81-DA7C3130760E</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
